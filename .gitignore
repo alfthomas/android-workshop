@@ -1,0 +1,7 @@
+*.iml
+.idea
+target
+gen
+classes
+project.properties
+.DS_Store
