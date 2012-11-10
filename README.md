@@ -31,3 +31,7 @@ For the third exercise you will lay out 3 buttons using Android's FrameLayout la
 #### Hints
 
 * [FrameLayout documentation](http://developer.android.com/reference/android/widget/FrameLayout.html)
+
+## Bonus exercises
+
+* Try to change the styling of the app; background color, text color etc
