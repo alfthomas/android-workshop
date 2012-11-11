@@ -14,7 +14,7 @@ In the first exercise you will lay out 5 buttons using Android's RelativeLayout 
 
 ## 2-LinearLayout
 
-For the second exercise you will lay out 3 buttons using Android's LinearLayout layout manager. It should look like this:
+For the second exercise you will lay out 3 buttons using Android's LinearLayout layout manager. It should look like this (note that Button 3 is always half the height of Button 2):
 
 ![LinearLayout Solution](https://raw.github.com/alfthomas/android-workshop/master/2-LinearLayout/solution-screenshot.png)
 
